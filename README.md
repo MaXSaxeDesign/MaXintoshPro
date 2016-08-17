@@ -1,7 +1,7 @@
-# MaXintoshPro Plans
+# MaXintosh Pro Plans
 
-MaXintoshPro is the game development and gaming division of MaX Saxe Design.
+MaXintosh Pro is the game development and gaming division of [MaX Saxe Design](http://maxsaxedesign.co.uk).
 
-MaXintoshPro, often shortened to MaXPro, will be continuing the development of a few games and gaming oriented devices.
+MaXintosh Pro, sometimes shortened to MaXPro, will be continuing the development of a few games and gaming oriented devices.
 
-MaX has been working on these designs since March 2010.
+[MaX](https://twitter.com/MaX_MSD) has been working on MaXintosh Pro since March 2010.
